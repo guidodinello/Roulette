@@ -1,0 +1,10 @@
+# editor related
+.vscode/
+
+# python related
+__pycache__/
+.mypy_cache/
+.venv/
+build/
+utils.egg-info/
+.autoenv.zsh
